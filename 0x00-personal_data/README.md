@@ -1,4 +1,3 @@
-```markdown
 # 0x00. Personal Data Management
 
 This project focuses on managing Personally Identifiable Information (PII) in back-end applications, emphasizing authentication and secure data handling. By the end of this project, you'll learn how to secure sensitive data, filter logs, and encrypt user credentials using Python.
